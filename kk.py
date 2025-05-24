@@ -1,6 +1,7 @@
 # Copyright 2024 Marimo. All rights reserved.
 
 import marimo
+print(1)
 
 __generated_with = "0.13.8"
 app = marimo.App()
