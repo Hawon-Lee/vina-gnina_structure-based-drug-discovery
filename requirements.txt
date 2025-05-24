@@ -1,0 +1,6 @@
+autodocktools-py3 @ git+https://github.com/Valdes-Tresanco-MS/AutoDockTools_py3@a62a5d98116f1590183b58a9ad732b997cf2579c
+numpy==2.0.2
+openbabel-wheel==3.1.1.21
+packaging==25.0
+vina==1.2.7
+wheel==0.45.1
