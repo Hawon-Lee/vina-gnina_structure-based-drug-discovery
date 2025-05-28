@@ -1,5 +1,5 @@
 
-## UV environment 구ㅅㅇ하기
+## UV environment 구성하기
 
 
 ```bash
