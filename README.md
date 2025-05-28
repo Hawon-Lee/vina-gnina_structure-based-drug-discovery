@@ -8,13 +8,13 @@
 
 `uv venv --python=3.9.19`
 
-`source .venv/bin/activate`
+`source .venv/bin/activate` (Linux/macOS) / `.venv\Scripts\activate` (Windows)
 
 `uv pip install -r requirements.txt`
 
 `sh 00-setup.sh`
 
-`python -m ipykernel install --user --name=.venv --display-name="str_tutoral"`
+`python -m ipykernel install --user --name=.venv --display-name="str_tutorial"`
 
 
 (나 참고용)
